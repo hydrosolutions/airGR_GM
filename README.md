@@ -18,6 +18,12 @@ This modification includes mainly two changes:
 
 2. The ability to adjust the temperature and precipitation lapse rates.
 
+## Maintenance Status
+🟡 **Maintenance Mode**
+
+This project has concluded. Security updates are provided as needed.
+For questions, please [open an issue](../../issues).
+
 ### 1. Glacier Module
 
 This modification adds two main functions:
